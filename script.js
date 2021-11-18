@@ -1,3 +1,6 @@
-const a=50;
-const b=()=>{};
+const a=55;
+const b=()=>{
+    console.log('Hi there');
+};
+
 
