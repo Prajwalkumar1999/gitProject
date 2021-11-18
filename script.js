@@ -1,6 +1,6 @@
 const a=55;
-const b=()=>{
-    console.log('Hi there');
+const c='Hi there';
+const b=()=>{ console.log('Hi there');
 };
 
 
